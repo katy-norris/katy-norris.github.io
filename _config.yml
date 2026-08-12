@@ -25,9 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Katy Norris"
-  pronouns         : "she/her"  
   bio              : "PhD Candidate, Political Science"
-  location         : "London"
   employer         : "University College London"
   uri              : # URL
   email            : "kathryn.norris.23@ucl.ac.uk" 
@@ -38,7 +36,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : #"https://orcid.org/yourorcidurl"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
