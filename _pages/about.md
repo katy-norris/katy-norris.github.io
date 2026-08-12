@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Katy Norris"
+title: ""
 redirect_from: 
   - /about/
   - /about.html
