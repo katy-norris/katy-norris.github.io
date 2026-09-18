@@ -8,7 +8,7 @@ redirect_from:
 
 <div style="font-size: 0.85em; line-height: 1.4;" markdown="1">
 
-##Welcome! 
+## Welcome! 
 
 I am a final-year PhD Candidate in the Department of Political Science at University College London. My research primarily focuses on the intersection between politics and education. 
 
