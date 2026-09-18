@@ -14,28 +14,28 @@ Beyond my dissertation, I am involved in several research projects. These projec
    
 Before joining UCL, I worked in education policy and international development. I also completed an MPP in Inequality and Social Policy from the University of California, San Diego and an MSc in Development Studies from the London School of Economics & Political Science. You can download my CV [here.](/files/CV.pdf)
 
-
+<div style="font-size: 0.85em; line-height: 1.4;">
 
 ## Research
 
 ### Book Chapters
 
-**"Latin America's Education Systems in Comparative Perspective, 1945-2021: Patterns and Puzzles"** *(with Agustina S. Paglayan)*
+Latin America's Education Systems in Comparative Perspective, 1945-2021: Patterns and Puzzles *(with Agustina S. Paglayan).*
 In J.A. Bogliaccini & A. Madariaga (Eds.), *Skills, Values, and Development: The Political Economy of Education in Latin America*. Oxford University Press, 2025.
 
 ### Working Papers
 
-**"An education arms race? The political origins of mass higher education"**
+An education arms race? The political origins of mass higher education
 *(Revise & resubmit).*
 
-**"Reconstruction or social control? Primary education provision in post-conflict Rwanda".**
+Reconstruction or social control? Primary education provision in post-conflict Rwanda.
 
 ### Selected Works in Progress
 
-**"The political economy of education quality: Lessons from the 'Finnish miracle'"** *(with Agustina S. Paglayan).*
+The political economy of education quality: Lessons from the 'Finnish miracle' *(with Agustina S. Paglayan).*
 
-**"Democracy under siege: Wartime restrictions and their legacies"** *(with Kristin M. Bakke).*
+Democracy under siege: Wartime restrictions and their legacies *(with Kristin M. Bakke).*
 
-**"Teacher unions and women's political participation: Evidence from Greece"** *(with Ioanna Gkoutna).*
+Teacher unions and women's political participation: Evidence from Greece *(with Ioanna Gkoutna).*
 
-
+</div>
