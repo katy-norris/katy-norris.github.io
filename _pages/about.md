@@ -33,6 +33,8 @@ Reconstruction or social control? Primary education provision in post-conflict R
 
 ### Selected Works in Progress
 
+Retrenchment or repression? The politics of U.S. higher education financing.
+
 The political economy of education quality: Lessons from the 'Finnish miracle' *(with Agustina S. Paglayan).*
 
 Democracy under siege: Wartime restrictions and their legacies *(with Kristin M. Bakke).*
